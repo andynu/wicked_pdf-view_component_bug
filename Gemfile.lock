@@ -177,6 +177,8 @@ GEM
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.4)
+    wicked_pdf (2.0.2)
+      activesupport
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.3.0)
@@ -200,9 +202,10 @@ DEPENDENCIES
   tzinfo-data
   view_component (~> 2.5)
   webdrivers
+  wicked_pdf (~> 2.0)
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 2.6.5p114
 
 BUNDLED WITH
    2.1.4
